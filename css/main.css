@@ -15,6 +15,8 @@ body {
 .page-title {
     text-align: center;
     font-weight: 100;
+    font-family: lato, sans-serif;
+    
 }
 
 .page-description {
@@ -23,6 +25,20 @@ body {
     padding: 20px;
     
 }
+
+.page-header {
+    text-align: center;
+    font-weight: 100;
+    font-family: lato, sans-serif
+}
+
+.paragraph {
+    text-align: center;
+    font-weight: 100;
+    font-family: lato, sans-serif;
+    
+}
+
 
 .photos {
     display: inline;
